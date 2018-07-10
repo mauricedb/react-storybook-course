@@ -2,9 +2,6 @@ import React from 'react';
 
 import { storiesOf } from '@storybook/react';
 import { action } from '@storybook/addon-actions';
-import { linkTo } from '@storybook/addon-links';
-
-import { Button, Welcome } from '@storybook/react/demo';
 
 import MovieListItem from './MovieListItem';
 
@@ -19,5 +16,12 @@ const pulpFiction = {
 };
 
 storiesOf('MovieListItem', module)
+  .addDecorator(story => (
+    <div>
+      <div style={{ backgroundColor: 'lightblue' }}>Above</div>
+      {story()}
+      <div style={{ backgroundColor: 'lightblue' }}>Below</div>
+    </div>
+  ))
   .add('default', () => <MovieListItem {...pulpFiction} />)
   .add('No image', () => <MovieListItem {...pulpFiction} backdrop_path="" />);
