@@ -11,15 +11,17 @@ import './MovieListItem.css';
 
 class MovieListItem extends Component {
   render() {
-    const { title, backdrop_path, overview } = this.props;
+    const { title, backdrop_path, overview, onLearnMore } = this.props;
 
     return (
       <Card className="movie-list-item">
-        {backdrop_path && <CardMedia
-          className="movie-list-item-image"
-          image={`//image.tmdb.org/t/p/w300${backdrop_path}`}
-          title={title}
-        />}
+        {backdrop_path && (
+          <CardMedia
+            className="movie-list-item-image"
+            image={`//image.tmdb.org/t/p/w300${backdrop_path}`}
+            title={title}
+          />
+        )}
         <CardContent>
           <Typography gutterBottom variant="headline" component="h2">
             {title}
@@ -27,7 +29,7 @@ class MovieListItem extends Component {
           <Typography component="p">{overview}</Typography>
         </CardContent>
         <CardActions>
-          <Button size="small" color="primary">
+          <Button size="small" color="primary" onClick={onLearnMore}>
             Learn More
           </Button>
         </CardActions>
