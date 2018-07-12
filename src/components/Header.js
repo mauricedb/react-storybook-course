@@ -10,7 +10,7 @@ class Header extends Component {
         <AppBar position="static" color="default">
           <Toolbar>
             <Typography variant="title" color="inherit">
-              Top rated movies{' '}
+              Top rated movies
             </Typography>
           </Toolbar>
         </AppBar>
