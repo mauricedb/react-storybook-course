@@ -36,6 +36,12 @@ class MoviesLoader extends Component {
     }
   }
 
+  componentWillUnmount() {
+    // Prevent state changes after unmounting as
+    // this will generate error messages when running Jest tests
+    this.setState = () => null;
+  }
+
   render() {
     return <MoviesList {...this.state} />;
   }
