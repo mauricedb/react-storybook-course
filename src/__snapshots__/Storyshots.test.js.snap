@@ -109,7 +109,7 @@ exports[`Storyshots MovieListItem With Knobs 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
         }
       }
       title="Pulp Fiction"
@@ -190,7 +190,7 @@ exports[`Storyshots MovieListItem default 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
         }
       }
       title="Pulp Fiction"
@@ -293,7 +293,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/6xKCYgH16UuwEGAyroLU6p8HLIn.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg\\")",
         }
       }
       title="The Godfather"
@@ -351,7 +351,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
         }
       }
       title="Pulp Fiction"
@@ -409,7 +409,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/gLbBRyS7MBrmVUNce91Hmx9vzqI.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg\\")",
         }
       }
       title="The Godfather: Part II"
@@ -467,7 +467,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/vnT6HzjLSDrAweHn9xWykb8Ii6T.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/gUdk0FMw38DSUqpnLLHCAWN60he.jpg\\")",
         }
       }
       title="Once Upon a Time in America"
@@ -525,7 +525,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
       src={undefined}
       style={
         Object {
-          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/87hTDiay2N2qWyX4Ds7ybXi9h8I.jpg\\")",
+          "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg\\")",
         }
       }
       title="Fight Club"

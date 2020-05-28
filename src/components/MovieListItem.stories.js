@@ -10,14 +10,14 @@ const pulpFiction = {
   id: 680,
   title: 'Pulp Fiction',
   vote_average: 8.4,
-  backdrop_path: '/4cDFJr4HnXN5AdPw4AKrmLlMWdO.jpg',
+  backdrop_path: '/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg',
   overview:
     "A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.",
-  release_date: '1994-09-10'
+  release_date: '1994-09-10',
 };
 
 storiesOf('MovieListItem', module)
-  .addDecorator(story => (
+  .addDecorator((story) => (
     <div>
       <div style={{ backgroundColor: 'lightblue' }}>Above</div>
       {story()}
@@ -31,7 +31,7 @@ storiesOf('MovieListItem', module)
   .add('No image', () => (
     <MovieListItem
       {...pulpFiction}
-      backdrop_path=""
+      backdrop_path=''
       onLearnMore={action('Learn more')}
     />
   ))
