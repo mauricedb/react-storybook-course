@@ -6,10 +6,10 @@ exports[`Storyshots Header default 1`] = `
     className="MuiPaper-root-9 MuiPaper-elevation4-15 MuiAppBar-root-1 MuiAppBar-positionStatic-5 MuiAppBar-colorDefault-6"
   >
     <div
-      className="MuiToolbar-root-36 MuiToolbar-gutters-37"
+      className="MuiToolbar-root-36 MuiToolbar-regular-38 MuiToolbar-gutters-37"
     >
       <h2
-        className="MuiTypography-root-38 MuiTypography-title-44 MuiTypography-colorInherit-57"
+        className="MuiTypography-root-40 MuiTypography-title-46 MuiTypography-colorInherit-59"
       >
         Top rated movies
       </h2>
@@ -30,28 +30,28 @@ exports[`Storyshots MovieListItem No image 1`] = `
     Above
   </div>
   <div
-    className="MuiPaper-root-154 MuiPaper-elevation1-157 MuiPaper-rounded-155 MuiCard-root-153 movie-list-item"
+    className="MuiPaper-root-160 MuiPaper-elevation1-163 MuiPaper-rounded-161 MuiCard-root-159 movie-list-item"
   >
     
     <div
-      className="MuiCardContent-root-181"
+      className="MuiCardContent-root-187"
     >
       <h2
-        className="MuiTypography-root-182 MuiTypography-headline-187 MuiTypography-gutterBottom-199"
+        className="MuiTypography-root-188 MuiTypography-headline-193 MuiTypography-gutterBottom-205"
       >
         Pulp Fiction
       </h2>
       <p
-        className="MuiTypography-root-182 MuiTypography-body1-191"
+        className="MuiTypography-root-188 MuiTypography-body1-197"
       >
         A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-206"
+      className="MuiCardActions-root-213"
     >
       <button
-        className="MuiButtonBase-root-232 MuiButton-root-208 MuiButton-text-210 MuiButton-textPrimary-211 MuiButton-flat-213 MuiButton-flatPrimary-214 MuiButton-sizeSmall-229 MuiCardActions-action-207"
+        className="MuiButtonBase-root-241 MuiButton-root-215 MuiButton-text-217 MuiButton-textPrimary-218 MuiButton-flat-220 MuiButton-flatPrimary-221 MuiButton-sizeSmall-238 MuiCardActions-action-214"
         disabled={false}
         onBlur={[Function]}
         onClick={[Function]}
@@ -68,12 +68,12 @@ exports[`Storyshots MovieListItem No image 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-209"
+          className="MuiButton-label-216"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-235"
+          className="MuiTouchRipple-root-244"
         />
       </button>
     </div>
@@ -102,11 +102,10 @@ exports[`Storyshots MovieListItem With Knobs 1`] = `
     Above
   </div>
   <div
-    className="MuiPaper-root-243 MuiPaper-elevation1-246 MuiPaper-rounded-244 MuiCard-root-242 movie-list-item"
+    className="MuiPaper-root-252 MuiPaper-elevation1-255 MuiPaper-rounded-253 MuiCard-root-251 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-270 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-279 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
@@ -115,24 +114,24 @@ exports[`Storyshots MovieListItem With Knobs 1`] = `
       title="Pulp Fiction"
     />
     <div
-      className="MuiCardContent-root-272"
+      className="MuiCardContent-root-281"
     >
       <h2
-        className="MuiTypography-root-273 MuiTypography-headline-278 MuiTypography-gutterBottom-290"
+        className="MuiTypography-root-282 MuiTypography-headline-287 MuiTypography-gutterBottom-299"
       >
         Pulp Fiction
       </h2>
       <p
-        className="MuiTypography-root-273 MuiTypography-body1-282"
+        className="MuiTypography-root-282 MuiTypography-body1-291"
       >
         A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-297"
+      className="MuiCardActions-root-307"
     >
       <button
-        className="MuiButtonBase-root-323 MuiButton-root-299 MuiButton-text-301 MuiButton-textPrimary-302 MuiButton-flat-304 MuiButton-flatPrimary-305 MuiButton-sizeSmall-320 MuiCardActions-action-298"
+        className="MuiButtonBase-root-335 MuiButton-root-309 MuiButton-text-311 MuiButton-textPrimary-312 MuiButton-flat-314 MuiButton-flatPrimary-315 MuiButton-sizeSmall-332 MuiCardActions-action-308"
         disabled={false}
         onBlur={[Function]}
         onClick={[Function]}
@@ -149,12 +148,12 @@ exports[`Storyshots MovieListItem With Knobs 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-300"
+          className="MuiButton-label-310"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-326"
+          className="MuiTouchRipple-root-338"
         />
       </button>
     </div>
@@ -183,11 +182,10 @@ exports[`Storyshots MovieListItem default 1`] = `
     Above
   </div>
   <div
-    className="MuiPaper-root-63 MuiPaper-elevation1-66 MuiPaper-rounded-64 MuiCard-root-62 movie-list-item"
+    className="MuiPaper-root-66 MuiPaper-elevation1-69 MuiPaper-rounded-67 MuiCard-root-65 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-90 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-93 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
@@ -196,24 +194,24 @@ exports[`Storyshots MovieListItem default 1`] = `
       title="Pulp Fiction"
     />
     <div
-      className="MuiCardContent-root-92"
+      className="MuiCardContent-root-95"
     >
       <h2
-        className="MuiTypography-root-93 MuiTypography-headline-98 MuiTypography-gutterBottom-110"
+        className="MuiTypography-root-96 MuiTypography-headline-101 MuiTypography-gutterBottom-113"
       >
         Pulp Fiction
       </h2>
       <p
-        className="MuiTypography-root-93 MuiTypography-body1-102"
+        className="MuiTypography-root-96 MuiTypography-body1-105"
       >
         A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-117"
+      className="MuiCardActions-root-121"
     >
       <button
-        className="MuiButtonBase-root-143 MuiButton-root-119 MuiButton-text-121 MuiButton-textPrimary-122 MuiButton-flat-124 MuiButton-flatPrimary-125 MuiButton-sizeSmall-140 MuiCardActions-action-118"
+        className="MuiButtonBase-root-149 MuiButton-root-123 MuiButton-text-125 MuiButton-textPrimary-126 MuiButton-flat-128 MuiButton-flatPrimary-129 MuiButton-sizeSmall-146 MuiCardActions-action-122"
         disabled={false}
         onBlur={[Function]}
         onClick={[Function]}
@@ -230,12 +228,12 @@ exports[`Storyshots MovieListItem default 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-120"
+          className="MuiButton-label-124"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-146"
+          className="MuiTouchRipple-root-152"
         />
       </button>
     </div>
@@ -254,15 +252,15 @@ exports[`Storyshots MovieListItem default 1`] = `
 
 exports[`Storyshots MoviesList When loading 1`] = `
 <div
-  className="MuiLinearProgress-root-426 MuiLinearProgress-colorPrimary-427"
+  className="MuiLinearProgress-root-441 MuiLinearProgress-colorPrimary-442"
   role="progressbar"
 >
   <div
-    className="MuiLinearProgress-bar-434 MuiLinearProgress-barColorPrimary-435 MuiLinearProgress-bar1Indeterminate-437"
+    className="MuiLinearProgress-bar-449 MuiLinearProgress-barColorPrimary-450 MuiLinearProgress-bar1Indeterminate-452"
     style={Object {}}
   />
   <div
-    className="MuiLinearProgress-bar-434 MuiLinearProgress-barColorPrimary-435 MuiLinearProgress-bar2Indeterminate-438"
+    className="MuiLinearProgress-bar-449 MuiLinearProgress-barColorPrimary-450 MuiLinearProgress-bar2Indeterminate-455"
     style={Object {}}
   />
 </div>
@@ -270,7 +268,7 @@ exports[`Storyshots MoviesList When loading 1`] = `
 
 exports[`Storyshots MoviesList With error 1`] = `
 <p
-  className="MuiTypography-root-442 MuiTypography-body1-451 MuiTypography-colorError-465"
+  className="MuiTypography-root-458 MuiTypography-body1-467 MuiTypography-colorError-482"
 >
   Some error message
 </p>
@@ -278,7 +276,7 @@ exports[`Storyshots MoviesList With error 1`] = `
 
 exports[`Storyshots MoviesList With movies 1`] = `
 <ul
-  className="MuiGridList-root-334"
+  className="MuiGridList-root-346"
   style={
     Object {
       "margin": -2,
@@ -286,11 +284,10 @@ exports[`Storyshots MoviesList With movies 1`] = `
   }
 >
   <div
-    className="MuiPaper-root-336 MuiPaper-elevation1-339 MuiPaper-rounded-337 MuiCard-root-335 movie-list-item"
+    className="MuiPaper-root-348 MuiPaper-elevation1-351 MuiPaper-rounded-349 MuiCard-root-347 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-363 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-375 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/ejdD20cdHNFAYAN2DlqPToXKyzx.jpg\\")",
@@ -299,27 +296,26 @@ exports[`Storyshots MoviesList With movies 1`] = `
       title="The Godfather"
     />
     <div
-      className="MuiCardContent-root-365"
+      className="MuiCardContent-root-377"
     >
       <h2
-        className="MuiTypography-root-366 MuiTypography-headline-371 MuiTypography-gutterBottom-383"
+        className="MuiTypography-root-378 MuiTypography-headline-383 MuiTypography-gutterBottom-395"
       >
         The Godfather
       </h2>
       <p
-        className="MuiTypography-root-366 MuiTypography-body1-375"
+        className="MuiTypography-root-378 MuiTypography-body1-387"
       >
         Spanning the years 1945 to 1955, a chronicle of the fictional Italian-American Corleone crime family. When organized crime family patriarch, Vito Corleone barely survives an attempt on his life, his youngest son, Michael steps in to take care of the would-be killers, launching a campaign of bloody revenge.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-390"
+      className="MuiCardActions-root-403"
     >
       <button
-        className="MuiButtonBase-root-416 MuiButton-root-392 MuiButton-text-394 MuiButton-textPrimary-395 MuiButton-flat-397 MuiButton-flatPrimary-398 MuiButton-sizeSmall-413 MuiCardActions-action-391"
+        className="MuiButtonBase-root-431 MuiButton-root-405 MuiButton-text-407 MuiButton-textPrimary-408 MuiButton-flat-410 MuiButton-flatPrimary-411 MuiButton-sizeSmall-428 MuiCardActions-action-404"
         disabled={false}
         onBlur={[Function]}
-        onClick={undefined}
         onFocus={[Function]}
         onKeyDown={[Function]}
         onKeyUp={[Function]}
@@ -333,22 +329,21 @@ exports[`Storyshots MoviesList With movies 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-393"
+          className="MuiButton-label-406"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-419"
+          className="MuiTouchRipple-root-434"
         />
       </button>
     </div>
   </div>
   <div
-    className="MuiPaper-root-336 MuiPaper-elevation1-339 MuiPaper-rounded-337 MuiCard-root-335 movie-list-item"
+    className="MuiPaper-root-348 MuiPaper-elevation1-351 MuiPaper-rounded-349 MuiCard-root-347 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-363 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-375 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/suaEOtk1N1sgg2MTM7oZd2cfVp3.jpg\\")",
@@ -357,27 +352,26 @@ exports[`Storyshots MoviesList With movies 1`] = `
       title="Pulp Fiction"
     />
     <div
-      className="MuiCardContent-root-365"
+      className="MuiCardContent-root-377"
     >
       <h2
-        className="MuiTypography-root-366 MuiTypography-headline-371 MuiTypography-gutterBottom-383"
+        className="MuiTypography-root-378 MuiTypography-headline-383 MuiTypography-gutterBottom-395"
       >
         Pulp Fiction
       </h2>
       <p
-        className="MuiTypography-root-366 MuiTypography-body1-375"
+        className="MuiTypography-root-378 MuiTypography-body1-387"
       >
         A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-390"
+      className="MuiCardActions-root-403"
     >
       <button
-        className="MuiButtonBase-root-416 MuiButton-root-392 MuiButton-text-394 MuiButton-textPrimary-395 MuiButton-flat-397 MuiButton-flatPrimary-398 MuiButton-sizeSmall-413 MuiCardActions-action-391"
+        className="MuiButtonBase-root-431 MuiButton-root-405 MuiButton-text-407 MuiButton-textPrimary-408 MuiButton-flat-410 MuiButton-flatPrimary-411 MuiButton-sizeSmall-428 MuiCardActions-action-404"
         disabled={false}
         onBlur={[Function]}
-        onClick={undefined}
         onFocus={[Function]}
         onKeyDown={[Function]}
         onKeyUp={[Function]}
@@ -391,22 +385,21 @@ exports[`Storyshots MoviesList With movies 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-393"
+          className="MuiButton-label-406"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-419"
+          className="MuiTouchRipple-root-434"
         />
       </button>
     </div>
   </div>
   <div
-    className="MuiPaper-root-336 MuiPaper-elevation1-339 MuiPaper-rounded-337 MuiCard-root-335 movie-list-item"
+    className="MuiPaper-root-348 MuiPaper-elevation1-351 MuiPaper-rounded-349 MuiCard-root-347 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-363 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-375 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/poec6RqOKY9iSiIUmfyfPfiLtvB.jpg\\")",
@@ -415,27 +408,26 @@ exports[`Storyshots MoviesList With movies 1`] = `
       title="The Godfather: Part II"
     />
     <div
-      className="MuiCardContent-root-365"
+      className="MuiCardContent-root-377"
     >
       <h2
-        className="MuiTypography-root-366 MuiTypography-headline-371 MuiTypography-gutterBottom-383"
+        className="MuiTypography-root-378 MuiTypography-headline-383 MuiTypography-gutterBottom-395"
       >
         The Godfather: Part II
       </h2>
       <p
-        className="MuiTypography-root-366 MuiTypography-body1-375"
+        className="MuiTypography-root-378 MuiTypography-body1-387"
       >
         In the continuing saga of the Corleone crime family, a young Vito Corleone grows up in Sicily and in 1910s New York. In the 1950s, Michael Corleone attempts to expand the family business into Las Vegas, Hollywood and Cuba.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-390"
+      className="MuiCardActions-root-403"
     >
       <button
-        className="MuiButtonBase-root-416 MuiButton-root-392 MuiButton-text-394 MuiButton-textPrimary-395 MuiButton-flat-397 MuiButton-flatPrimary-398 MuiButton-sizeSmall-413 MuiCardActions-action-391"
+        className="MuiButtonBase-root-431 MuiButton-root-405 MuiButton-text-407 MuiButton-textPrimary-408 MuiButton-flat-410 MuiButton-flatPrimary-411 MuiButton-sizeSmall-428 MuiCardActions-action-404"
         disabled={false}
         onBlur={[Function]}
-        onClick={undefined}
         onFocus={[Function]}
         onKeyDown={[Function]}
         onKeyUp={[Function]}
@@ -449,22 +441,21 @@ exports[`Storyshots MoviesList With movies 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-393"
+          className="MuiButton-label-406"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-419"
+          className="MuiTouchRipple-root-434"
         />
       </button>
     </div>
   </div>
   <div
-    className="MuiPaper-root-336 MuiPaper-elevation1-339 MuiPaper-rounded-337 MuiCard-root-335 movie-list-item"
+    className="MuiPaper-root-348 MuiPaper-elevation1-351 MuiPaper-rounded-349 MuiCard-root-347 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-363 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-375 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/gUdk0FMw38DSUqpnLLHCAWN60he.jpg\\")",
@@ -473,27 +464,26 @@ exports[`Storyshots MoviesList With movies 1`] = `
       title="Once Upon a Time in America"
     />
     <div
-      className="MuiCardContent-root-365"
+      className="MuiCardContent-root-377"
     >
       <h2
-        className="MuiTypography-root-366 MuiTypography-headline-371 MuiTypography-gutterBottom-383"
+        className="MuiTypography-root-378 MuiTypography-headline-383 MuiTypography-gutterBottom-395"
       >
         Once Upon a Time in America
       </h2>
       <p
-        className="MuiTypography-root-366 MuiTypography-body1-375"
+        className="MuiTypography-root-378 MuiTypography-body1-387"
       >
         A former Prohibition-era Jewish gangster returns to the Lower East Side of Manhattan over thirty years later, where he once again must confront the ghosts and regrets of his old life.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-390"
+      className="MuiCardActions-root-403"
     >
       <button
-        className="MuiButtonBase-root-416 MuiButton-root-392 MuiButton-text-394 MuiButton-textPrimary-395 MuiButton-flat-397 MuiButton-flatPrimary-398 MuiButton-sizeSmall-413 MuiCardActions-action-391"
+        className="MuiButtonBase-root-431 MuiButton-root-405 MuiButton-text-407 MuiButton-textPrimary-408 MuiButton-flat-410 MuiButton-flatPrimary-411 MuiButton-sizeSmall-428 MuiCardActions-action-404"
         disabled={false}
         onBlur={[Function]}
-        onClick={undefined}
         onFocus={[Function]}
         onKeyDown={[Function]}
         onKeyUp={[Function]}
@@ -507,22 +497,21 @@ exports[`Storyshots MoviesList With movies 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-393"
+          className="MuiButton-label-406"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-419"
+          className="MuiTouchRipple-root-434"
         />
       </button>
     </div>
   </div>
   <div
-    className="MuiPaper-root-336 MuiPaper-elevation1-339 MuiPaper-rounded-337 MuiCard-root-335 movie-list-item"
+    className="MuiPaper-root-348 MuiPaper-elevation1-351 MuiPaper-rounded-349 MuiCard-root-347 movie-list-item"
   >
     <div
-      className="MuiCardMedia-root-363 movie-list-item-image"
-      src={undefined}
+      className="MuiCardMedia-root-375 movie-list-item-image"
       style={
         Object {
           "backgroundImage": "url(\\"//image.tmdb.org/t/p/w300/bptfVGEQuv6vDTIMVCHjJ9Dz8PX.jpg\\")",
@@ -531,27 +520,26 @@ exports[`Storyshots MoviesList With movies 1`] = `
       title="Fight Club"
     />
     <div
-      className="MuiCardContent-root-365"
+      className="MuiCardContent-root-377"
     >
       <h2
-        className="MuiTypography-root-366 MuiTypography-headline-371 MuiTypography-gutterBottom-383"
+        className="MuiTypography-root-378 MuiTypography-headline-383 MuiTypography-gutterBottom-395"
       >
         Fight Club
       </h2>
       <p
-        className="MuiTypography-root-366 MuiTypography-body1-375"
+        className="MuiTypography-root-378 MuiTypography-body1-387"
       >
         A ticking-time-bomb insomniac and a slippery soap salesman channel primal male aggression into a shocking new form of therapy. Their concept catches on, with underground "fight clubs" forming in every town, until an eccentric gets in the way and ignites an out-of-control spiral toward oblivion.
       </p>
     </div>
     <div
-      className="MuiCardActions-root-390"
+      className="MuiCardActions-root-403"
     >
       <button
-        className="MuiButtonBase-root-416 MuiButton-root-392 MuiButton-text-394 MuiButton-textPrimary-395 MuiButton-flat-397 MuiButton-flatPrimary-398 MuiButton-sizeSmall-413 MuiCardActions-action-391"
+        className="MuiButtonBase-root-431 MuiButton-root-405 MuiButton-text-407 MuiButton-textPrimary-408 MuiButton-flat-410 MuiButton-flatPrimary-411 MuiButton-sizeSmall-428 MuiCardActions-action-404"
         disabled={false}
         onBlur={[Function]}
-        onClick={undefined}
         onFocus={[Function]}
         onKeyDown={[Function]}
         onKeyUp={[Function]}
@@ -565,12 +553,12 @@ exports[`Storyshots MoviesList With movies 1`] = `
         type="button"
       >
         <span
-          className="MuiButton-label-393"
+          className="MuiButton-label-406"
         >
           Learn More
         </span>
         <span
-          className="MuiTouchRipple-root-419"
+          className="MuiTouchRipple-root-434"
         />
       </button>
     </div>
@@ -580,7 +568,7 @@ exports[`Storyshots MoviesList With movies 1`] = `
 
 exports[`Storyshots MoviesList default 1`] = `
 <ul
-  className="MuiGridList-root-333"
+  className="MuiGridList-root-345"
   style={
     Object {
       "margin": -2,
