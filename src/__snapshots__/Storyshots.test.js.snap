@@ -124,7 +124,7 @@ exports[`Storyshots MovieListItem With Knobs 1`] = `
       <p
         className="MuiTypography-root-282 MuiTypography-body1-291"
       >
-        A burger-loving hit man, his philosophical partner, a drug-addled gangster's moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
+        A burger-loving hit man, his philosophical partner, a drug-addled gangster&#39;s moll and a washed-up boxer converge in this sprawling, comedic crime caper. Their adventures unfurl in three stories that ingeniously trip back and forth in time.
       </p>
     </div>
     <div

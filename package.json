@@ -19,15 +19,16 @@
     "deploy-storybook": "storybook-to-ghpages"
   },
   "devDependencies": {
-    "@storybook/addon-actions": "^3.4.8",
-    "@storybook/addon-knobs": "^3.4.8",
-    "@storybook/addon-links": "^3.4.8",
-    "@storybook/addon-storyshots": "^3.4.8",
-    "@storybook/addons": "^3.4.8",
-    "@storybook/react": "^3.4.8",
-    "@storybook/storybook-deployer": "^2.3.0",
+    "@storybook/addon-actions": "^5.3.19",
+    "@storybook/addon-knobs": "^5.3.19",
+    "@storybook/addon-links": "^5.3.19",
+    "@storybook/addon-storyshots": "^5.3.19",
+    "@storybook/addons": "^5.3.19",
+    "@storybook/react": "^5.3.19",
+    "@storybook/storybook-deployer": "^2.8.6",
     "babel-core": "^6.26.3",
-    "babel-runtime": "^6.26.0"
+    "babel-runtime": "^6.26.0",
+    "require-context.macro": "^1.2.2"
   },
   "browserslist": {
     "production": [
